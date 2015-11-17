@@ -1,0 +1,133 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.wrapper {
+	margin: 10px;
+}
+
+body {
+	text-align: center;
+	background: url(../images/heroimagedog2.jpg);
+	background-size: cover;
+	color: #FA8072;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 150%
+}
+
+nav {
+	float: right;
+	background: teal;
+	border: 1px black solid;
+	padding: 20px;
+	
+}
+
+header {
+
+height: 150px;
+background: yellow;
+border: 1px black solid;
+}
+
+h1 {
+
+	margin: 0;
+	float: left;
+	text-align: center;
+	font-family: 'Lobster Two', cursive;
+	font-size: 200%;
+	border: thin solid;
+	padding: 2px;
+	
+	}
+
+hr {
+	width: 200px;
+	color: gray;
+
+}
+
+p{
+	
+	
+	
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+
+}
+
+main {
+	float: right;
+	width: 600px;
+	margin-right: 10px;
+	margin-top: 50px;
+	margin-bottom: 25px;
+	background: orange;
+	border: 1px black solid;
+
+
+}
+
+#slogan {
+	font-style: italic;
+	font-weight: bold;
+	padding-bottom: 15px;
+
+}
+
+hr {
+	
+}
+
+#section {
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+.button-wrapper {
+  display: block;
+  text-align: center;
+}
+
+.button {
+  border: none;
+  border-radius: 2em;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0);
+  display: inline-block;
+  color: #000000;
+  background: #829595;
+  font-size: 1em;
+  padding: 1em 2em;
+  width: auto;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	clear: both;
+	padding: 20px;
+	background: white;
+	border: 1px black solid;
+}
